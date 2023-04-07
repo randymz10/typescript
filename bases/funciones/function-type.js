@@ -8,8 +8,8 @@
     // console.log(myFunction);
     myFunction = addNumbers;
     console.log(myFunction(1, 2));
-    myFunction = greet;
-    console.log(myFunction('Randy'));
-    myFunction = saveTheWorld;
-    console.log(myFunction());
+    // myFunction = greet;
+    // console.log( myFunction( 'Randy' ));
+    // myFunction = saveTheWorld;
+    // console.log( myFunction());
 })();
